@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Interfaces.SchDoc
+Record=SheetSymbol|SourceDocument=Interfaces.SchDoc|Designator=DSP|SchDesignator=DSP|FileName=DSP.SchDoc|SymbolType=Normal|RawFileName=DSP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Interfaces.SchDoc|Designator=H-Bridge2|SchDesignator=H-Bridge2|FileName=PWM.SchDoc|SymbolType=Normal|RawFileName=PWM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Interfaces.SchDoc|Designator=H-Bridge3|SchDesignator=H-Bridge3|FileName=PWM.SchDoc|SymbolType=Normal|RawFileName=PWM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=DSP.SchDoc|Designator=Centrale Inertielle|SchDesignator=Centrale Inertielle|FileName=INERTIAL.SchDoc|SymbolType=Normal|RawFileName=INERTIAL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
